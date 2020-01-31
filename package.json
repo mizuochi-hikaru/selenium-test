@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha formTest.js --timeout 10000 --reporter xunit > xunit.xml"
+    "test": "mocha formTest.js --timeout 10000"
   },
   "keywords": [],
   "author": "",
